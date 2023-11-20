@@ -1,7 +1,7 @@
 # WindowsFormsApplicationTest1
 WindowsFormsApplicationTest desc
 
-clea1rbit.key = 'sk_1f384bd939bf8ad7dcd711a4d6859c3c'
+key = 'sk_1f384bd939bf8ad7dcd711a4d6859c3c'
 
 if len(sys.argv) < 2:
   sys.exit('Usage: cli.py [email]')
